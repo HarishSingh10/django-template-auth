@@ -1,5 +1,5 @@
 # django-template-auth
-Django Template-Based Authentication
+Django Template-Based Authentication done
 🌟 Overview
 Django Template-Based Authentication is a customizable and secure authentication system built on the Django framework. This project leverages Django's built-in authentication system while providing clean and responsive HTML templates for user registration, login, logout, and password management. Ideal for developers who need a ready-to-use authentication solution with minimal configuration, this project can be easily integrated into any Django application.
 
